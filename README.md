@@ -51,6 +51,8 @@ Python 3.x
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter.
 ### Source Link:
 [Link](https://www.kaggle.com/datasets/jinbonnie/chicago-airbnb-open-data)
-Feel free to explore and contribute to this project! If you have any questions or suggestions, please contact me at [your.email@example.com].
+
+Feel free to explore and contribute to this project! If you have any questions or suggestions, please contact me at 
+shravanirajanelli@gmail.com.
 
 Happy analyzing! 🏡🌆
