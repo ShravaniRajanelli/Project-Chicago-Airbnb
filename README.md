@@ -1,6 +1,17 @@
 # Chicago Airbnb Analysis
 Welcome to the Chicago Airbnb Analysis project! In this project, we explore and analyze the Chicago Airbnb dataset to gain insights into various aspects of Airbnb listings in the city. The dataset provides information about property types, prices, reviews, and more.
 
+### Source Link:
+[Link](https://www.kaggle.com/datasets/jinbonnie/chicago-airbnb-open-data)
+
+## Problem Statement
+The goal of this project is to analyze the Chicago Airbnb dataset and derive meaningful insights. Potential analysis areas include:
+* Understanding the distribution of property types.
+* Exploring the factors influencing listing prices.
+* Analyzing the popularity of different neighbourhoods.
+* Investigating the correlation between reviews and listing characteristics.
+
+  
 ## Dataset Overview
 The Chicago Airbnb dataset consists of the following key columns:
 
@@ -18,14 +29,6 @@ The Chicago Airbnb dataset consists of the following key columns:
 * reviews_per_month: Average number of reviews received per month.
 * latitude: Latitude of the property.
 * longitude: Longitude of the property.
-  
-## Problem Statement
-The goal of this project is to analyze the Chicago Airbnb dataset and derive meaningful insights. Potential analysis areas include:
-
-* Understanding the distribution of property types.
-* Exploring the factors influencing listing prices.
-* Analyzing the popularity of different neighbourhoods.
-* Investigating the correlation between reviews and listing characteristics.
   
 ## Analysis Steps
 ### Data Cleaning:
@@ -49,8 +52,6 @@ Detailed analysis results, visualizations, and insights can be found in the Jupy
 ### Dependencies
 Python 3.x
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter.
-### Source Link:
-[Link](https://www.kaggle.com/datasets/jinbonnie/chicago-airbnb-open-data)
 
 Feel free to explore and contribute to this project! If you have any questions or suggestions, please contact me at 
 shravanirajanelli@gmail.com.
